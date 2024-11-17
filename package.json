@@ -1,0 +1,14 @@
+{
+  "name": "module_08r_sipmol24054_fto2410_groupa_sipho-molele_sdf08_r",
+  "version": "1.0.0",
+  "description": "Create a responsive footer for a website using Tailwind CSS. This project aims to enhance your CSS skills, focusing on responsive design and the utility-first approach of Tailwind CSS.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
